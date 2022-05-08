@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Classwork06\Classwork06\bin\Debug\netcoreapp3.1\Classwork06.exe
+C:\Users\DELL\source\repos\Classwork06\Classwork06\bin\Debug\netcoreapp3.1\Classwork06.deps.json
+C:\Users\DELL\source\repos\Classwork06\Classwork06\bin\Debug\netcoreapp3.1\Classwork06.runtimeconfig.json
+C:\Users\DELL\source\repos\Classwork06\Classwork06\bin\Debug\netcoreapp3.1\Classwork06.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Classwork06\Classwork06\bin\Debug\netcoreapp3.1\Classwork06.dll
+C:\Users\DELL\source\repos\Classwork06\Classwork06\bin\Debug\netcoreapp3.1\Classwork06.pdb
+C:\Users\DELL\source\repos\Classwork06\Classwork06\obj\Debug\netcoreapp3.1\Classwork06.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Classwork06\Classwork06\obj\Debug\netcoreapp3.1\Classwork06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Classwork06\Classwork06\obj\Debug\netcoreapp3.1\Classwork06.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Classwork06\Classwork06\obj\Debug\netcoreapp3.1\Classwork06.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Classwork06\Classwork06\obj\Debug\netcoreapp3.1\Classwork06.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Classwork06\Classwork06\obj\Debug\netcoreapp3.1\Classwork06.dll
+C:\Users\DELL\source\repos\Classwork06\Classwork06\obj\Debug\netcoreapp3.1\Classwork06.pdb
+C:\Users\DELL\source\repos\Classwork06\Classwork06\obj\Debug\netcoreapp3.1\Classwork06.genruntimeconfig.cache
